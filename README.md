@@ -5,14 +5,14 @@ The purpose of the analysis was to see grade averages and % passing number of st
 Below is a high-level summary of that analysis completed
 
   
-  * After omitting Thomas High School's ninth graders from the analysis the math, reading and overall average grades dropped slightly. In addition in the comparison below I took out the ninth graders from the total student count as they weren't included in the secondary analysis
+  * After omitting Thomas High School's ninth graders from the analysis the math, reading and overall average grades dropped slightly. In addition in the comparison below I took out the ninth graders from the total student count as they weren't included in the secondary analysis. I had to have more decimal points visible in the tables below to see the change.
       * Original: ![overall_original](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/overall_original.PNG)
       * Without Thomas High School 9th graders ![overall_new](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/overall_new.PNG)
   * Thomas High School without the ninth graders still had second highest overall passing percentage, however their average math and reading grades dropped
       * Original: ![schools_original](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/schools_original.PNG)
       * Without Thomas High School 9th graders ![schools_new](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/schools_new.PNG)
   * The math and readings scores for ninth graders showed up as NaN for Thomas High School in the school by grade analysis, the other grades were left unchanged.
-  * The analysis and size had slight changes but the change was less than 1/10 a percent and therefore with the rounded averages the change was not seen in the table. However if more decimal places were inlcuded you can see that the math average grade for $631-645 slightly declined, while the reading grade slightly increased.
+  * The analysis and size had slight changes but the change was less than 1/10 a percent and therefore with the rounded averages the change was not seen in the table. 
 
 ##
 Summary

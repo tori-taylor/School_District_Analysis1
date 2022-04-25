@@ -12,8 +12,7 @@ Below is a high-level summary of that analysis completed
       * Original: ![schools_original](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/schools_original.PNG)
       * Without Thomas High School 9th graders ![schools_new](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/schools_new.PNG)
   * The math and readings scores for ninth graders showed up as NaN for Thomas High School in the school by grade analysis, the other grades were left unchanged.
-      * Math Without Thomas High School 9th graders ![math_new](https://github.com/tori-taylor/School_District_Analysis1/blob/main/Resources/math_new.PNG) 
-  * The analysis and size had slight changes but the change was less than 1/10 a percent and therefore with the rounded averages the change was not seen
+  * The analysis and size had slight changes but the change was less than 1/10 a percent and therefore with the rounded averages the change was not seen in the table. However if more decimal places were inlcuded you can see that the math average grade for $631-645 slightly declined, while the reading grade slightly increased.
 
 ##
 Summary
